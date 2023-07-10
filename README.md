@@ -1,6 +1,6 @@
 # MelanomaCnn
 
-Main goal of the project is: Detecting melanoma with CNN architecture. (Range: 1-0)
+Main goal of the project is: Detecting melanoma with CNN architecture. (Output Range: 1-0)
 
 ## 10th Epoch Results:
 10th epoch is the best result, with LearningRate=0.001
