@@ -1,4 +1,4 @@
-# MelanomaCnn
+# Melanoma Cnn Detection
 
 Main goal of the project is: Detecting melanoma with CNN architecture. (Output Range: 1-0)
 
