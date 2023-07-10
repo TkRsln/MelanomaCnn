@@ -4,7 +4,7 @@ Main goal of the project is: Detecting melanoma with CNN architecture. (Range: 1
 
 ## 10th Epoch Results:
 10th epoch is the best result, with LearningRate=0.001
-<b> Confussion Matrix </b>
+<br><b> Confussion Matrix </b>
 ![alt text](https://github.com/TkRsln/MelanomaCnn/blob/main/IMG/epoch_10.png)
 
 ## AI Architecture
